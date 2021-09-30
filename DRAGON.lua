@@ -2893,7 +2893,7 @@ keyboard.inline_keyboard = {
 {{text = ' اضف البوت لمجموعتك ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
-https.request("https://api.telegram.org/bot"..token.. /sendPhoto?chat_id=  .. msg.chat_id_ ..  &photo=https://t.me/DvH7rboka_A3&caption=  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
+https.request("https://api.telegram.org/bot"..token.. '/sendPhoto?chat_id='  .. msg.chat_id_ ..  &photo=https://t.me/DvH7rboka_A3&caption=  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
 if text ==  'زغلل'  or text ==  'ممول القنوات'  or text == 'المبرمج زغلل  then
 local Text = [[
@@ -2906,7 +2906,7 @@ keyboard.inline_keyboard = {
 {{text =  'اضف البوت لمجموعتك ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
-https.request("https://api.telegram.org/bot"..token.. /sendPhoto?chat_id=  .. msg.chat_id_ ..  '&photo=https://t.me/M_ahmu_d&caption='  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
+https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id='  .. msg.chat_id_ ..  '&photo=https://t.me/M_ahmu_d&caption='  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
 if text ==  'كنجو'  or text ==  'مبرمج السورس'  or text ==  'ياكنجو'  then
 local Text = [[
@@ -2919,7 +2919,7 @@ keyboard.inline_keyboard = {
 {{text = ' اضف البوت لمجموعتك ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
-https.request("https://api.telegram.org/bot"..token.. /sendPhoto?chat_id=  .. msg.chat_id_ ..  '&photo=https://t.me/D_E_V_K_I_N_G_O_O&caption='  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
+https.request("https://api.telegram.org/bot"..token.. '/sendPhoto?chat_id='  .. msg.chat_id_ ..  '&photo=https://t.me/D_E_V_K_I_N_G_O_O&caption='  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
 if text ==   'احمد '   or text ==   'جبريه'   or text ==  'مبرمج السورس'  then
 local Text = [[
@@ -2932,7 +2932,7 @@ keyboard.inline_keyboard = {
 {{text =   'اضف البوت لمجموعتك  ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
-https.request("https://api.telegram.org/bot"..token.. /sendPhoto?chat_id=  .. msg.chat_id_ ..   '&photo=https://t.me/M_ahmu_d&caption='   .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
+https.request("https://api.telegram.org/bot"..token.. '/sendPhoto?chat_id='  .. msg.chat_id_ ..   '&photo=https://t.me/M_ahmu_d&caption='   .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
 if text == 'بوت الحذف' or text == 'بوت حذف' or text == 'بوت حذف حسابات' then
 local Text = [[
