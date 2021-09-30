@@ -2895,7 +2895,7 @@ keyboard.inline_keyboard = {
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token.. '/sendPhoto?chat_id='  .. msg.chat_id_ ..  '&photo=https://t.me/DvH7rboka_A3&caption='  .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
-if text ==  'زغلل'  or text ==  'ممول القنوات'  or text == 'المبرمج زغلل  then
+if text == 'زغلل' or text == 'ممول القنوات' or text == 'المبرمج زغلل'  then
 local Text = [[
 ⋆ يمكنك التواصل معي..↑↓
 ⋆ عن طريق معرفي بلاسفل..↑↓
