@@ -2915,7 +2915,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text =  '𝗗𝙀𝗩 𝗞𝙄𝗡𝗚𝙊𝙊' ⋆ ,url="t.me/D_E_V_K_I_N_G_O_O"}},
+{{text =  '𝗗𝙀𝗩 𝗞𝙄𝗡𝗚𝙊𝙊' ,url="t.me/D_E_V_K_I_N_G_O_O"}},
 {{text = ' اضف البوت لمجموعتك ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
@@ -2928,7 +2928,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text =    '𝗗𝙀𝗩 𝗔𝗛𝗠𝙀𝗗'⋆  ,url="t.me/G_G_A_B_E_3"}},
+{{text =    '𝗗𝙀𝗩 𝗔𝗛𝗠𝙀𝗗' ,url="t.me/G_G_A_B_E_3"}},
 {{text =   'اضف البوت لمجموعتك  ', url="http://t.me/"..sudos.UserName.."?startgroup=new"}},
 }
 local msg_id = msg.id_/2097152/0.5
